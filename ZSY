@@ -11,7 +11,7 @@
   "ruleChapterList": "id.readerlists@tag.li",
   "ruleChapterName": "tag.a@text",
   "ruleChapterUrl": "class.tgcj@href",
-  "ruleChapterUrlNext": "",
+  "ruleChapterUrlNext": "class.pages@tag.a@href",
   "ruleContentUrl": "tag.a@href",
   "ruleContentUrlNext": "",
   "ruleCoverUrl": "",
@@ -26,6 +26,6 @@
   "ruleSearchName": "tag.h3.0@tag.a.0@text|class.booktitle@tag.h1.0@text",
   "ruleSearchNoteUrl": "tag.dd.0@tag.h3.0@tag.a.0@href",
   "ruleSearchUrl": "https://www.zhaishuyuan.com/search/?s=searchKey|char=gbk",
-  "serialNumber": 4,
+  "serialNumber": 1,
   "weight": 0
 }
