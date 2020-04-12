@@ -1,0 +1,22 @@
+{
+  "bookSourceGroup": "A级",
+  "bookSourceName": "歪歪书屋",
+  "bookSourceUrl": "https://m.yytxt.com-By Dark",
+  "enable": true,
+  "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36",
+  "ruleBookContent": "id.content@textNodes",
+  "ruleChapterList": "id.readlist@tag.li",
+  "ruleChapterName": "tag.a@text",
+  "ruleContentUrl": "tag.a@href",
+  "ruleCoverUrl": "class.cover@tag.img@src",
+  "ruleIntroduce": "class.intro@textNodes",
+  "ruleSearchAuthor": "class.waps_sort@text#\\(|\\)",
+  "ruleSearchKind": "class.fenlei@tag.a@text",
+  "ruleSearchLastChapter": "class.genxin@tag.a@text",
+  "ruleSearchList": "class.waps_one",
+  "ruleSearchName": "class.waps_name@tag.a@text",
+  "ruleSearchNoteUrl": "class.waps_name@tag.a@href",
+  "ruleSearchUrl": "https://m.yytxt.com/novel.php?action=search@searchtype=articlename&searchkey=searchKey|char=gbk",
+  "serialNumber": 15,
+  "weight": 0
+}
