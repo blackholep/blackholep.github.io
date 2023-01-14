@@ -1,3 +1,4 @@
+#genre#
 CC-TV,https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8
 CCTV+ Channel 1,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 CCTV+ Channel 2,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
